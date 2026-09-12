@@ -312,7 +312,7 @@ tóm tắt có dẫn nguồn, tác giả xác nhận, reviewer vẫn đọc code
 ```text
 PR template (Rule) chỉ đảm bảo tác giả có ghi, nhưng không nối được PR/commit cũ và
 thread quyết định, reviewer vẫn phải tự mở từng nguồn. Tuy vậy nhóm chưa có số đo
-chứng minh Rule không đủ, nên pilot sẽ so sánh "chỉ template" với "template + AI";
+chứng minh Rule không đủ, nên pilot sẽ so sánh "chỉ template" với "templates + AI";
 chỉ giữ AI nếu giảm được tổng công sức.
 ```
 

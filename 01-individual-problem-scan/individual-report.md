@@ -24,12 +24,6 @@
 | 3 | AI có thể tốt hơn | Khi khách hỏi bằng nhiều cách khác nhau, nhân viên phải tự hiểu ý và tìm thông tin phù hợp | Nhân viên CSKH | Mỗi câu hỏi khó có thể mất 5-10 phút để tra cứu trước khi trả lời |
 | 4 | Pain từ người khác | Khách hàng phải chờ phản hồi khi nhân viên đang bận hoặc ngoài giờ làm việc | Khách hàng | Có trường hợp khách phải chờ vài chục phút hoặc đến hôm sau mới được trả lời |
 | 5 | Lặp lại + Tốn thời gian | Nhân viên phải tìm lại thông tin sản phẩm, giá và chính sách nhiều lần trong tài liệu | Nhân viên CSKH | Cùng một loại thông tin phải tra cứu nhiều lần mỗi ngày |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
-
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 **AI đã dùng ở Phase 1 (nếu có):**
